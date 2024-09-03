@@ -33,6 +33,7 @@ for i in list1:
 # the filename is Baylor.html and it should
 # open up in your browser. The library is Plotly.
 
+
 from plotly.graph_objs import Scattergeo, Layout
 from plotly import offline
 
